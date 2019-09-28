@@ -1,0 +1,19 @@
+{
+  "name": "helloasdi",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diivyak/helloasdi.git"
+  },
+  "author": "Divya Kistapuram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diivyak/helloasdi/issues"
+  },
+  "homepage": "https://github.com/Diivyak/helloasdi#readme"
+}
